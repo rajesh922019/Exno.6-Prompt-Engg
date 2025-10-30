@@ -15,7 +15,7 @@ pip install transformers torch
 
 ## 2.Load Models
 
-GPT-Neo: EleutherAI/gpt-neo-1.3B
+GPT-Neo: EleutherAI/gpt-neo-1.3B 
 GPT-2: gpt2
 
 ## 3.Define Functions
